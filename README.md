@@ -30,7 +30,7 @@ There's also a logging filter that automatically logs every incoming request and
 
 ## 2. How to Build and Run the Project
 
-### What you need
+
 - **Java 11** or higher installed
 - **Maven** installed (or you can use the Maven wrapper if provided)
 
@@ -97,7 +97,7 @@ This will return a 409 Conflict error because the room still has sensors in it. 
 
 ---
 
-## Conceptual Report
+## Answers
 
 ### Part 1: Service Architecture & Setup
 
